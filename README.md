@@ -1,2 +1,2 @@
 # Expense-Tracker
-Ever feel like you overspend on stuff that you could've avoided had you have given it a second thought? This expense tracker solely exists for over spenders like me to ensure that I have enough money left at the end of the year to spend on things that I truly want.
+Ever feel like you overspend on stuff that you could've avoided had you have given it a second thought? Fear not, for this expense tracker solely exists for over spenders like me to ensure that we have enough money left at the end of the year to spend on things that we truly want. This project isn't a simple calculator app rebranded as an expense tracker, but in fact an expense advisor that will warn you and advice you on how you must spend your hard earned money to make the best of it. 
